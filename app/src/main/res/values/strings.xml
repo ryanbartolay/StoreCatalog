@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">store_catalog</string>
+    <string name="default_search_text">Input Search</string>
+    <string name="default_speak_now">Speak Now</string>
+</resources>
